@@ -1,2 +1,2 @@
-# CursoGitGithub
- Repositório do curso
+# Curso de Git e Github
+ Repositório do curso de Git e Github.
